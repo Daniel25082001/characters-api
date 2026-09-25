@@ -26,5 +26,13 @@
     "express": "^5.2.1",
     "mongodb": "^7.3.0",
     "pg": "^8.21.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel25082001/characters-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Daniel25082001/characters-api/issues"
+  },
+  "homepage": "https://github.com/Daniel25082001/characters-api#readme"
 }
